@@ -8,6 +8,7 @@ namespace UniversityApiBackend.Models.DataModels
         [Required]
         [Key]
         public int Id { get; set; }
+        public int UserId { get; set; }
         public string CreateBy { get; set; } = string.Empty;
         public DateTime CreateAt { get; set; } = DateTime.Now;
         public string UpdateBy { get; set; } = string.Empty;

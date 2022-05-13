@@ -1,8 +1,9 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿/*using System.ComponentModel.DataAnnotations;
 
 namespace UniversityApiBackend.Models.DataModels
     // No haria falta poner las herencias,
     // supongo que seran unicos para esta clase no compartidos
+    /*
 {
     public class Cursos
     {
@@ -26,3 +27,4 @@ namespace UniversityApiBackend.Models.DataModels
 
     }
 }
+    */
